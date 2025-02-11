@@ -35,5 +35,6 @@ O código configura o Raspberry Pi Pico para controlar o servo e o LED via PWM:
 - Ajustar o brilho do LED alterando o ciclo de trabalho do PWM.
 
 ## Autor
-Desenvolvido por [Seu Nome].
-
+Desenvolvido por [Wagner Freitas].
+Link do video:
+https://drive.google.com/file/d/1qyU87Zl6BQvLYCDWpMdFPiIDCEXboGDL/view?usp=sharing
