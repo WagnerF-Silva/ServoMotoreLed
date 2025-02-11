@@ -21,7 +21,7 @@ Este projeto utiliza um Raspberry Pi Pico para controlar um servo motor e um LED
 
 ## Funcionamento
 O código configura o Raspberry Pi Pico para controlar o servo e o LED via PWM:
-- O servo oscila entre 0° e 180° continuamente.
+- O servo oscila entre 180° --> 90° --> 0°  após isso entra em loop entre  0° e  180°  suavemente e continuamente.
 - O LED pisca sincronizado com a movimentação do servo.
 
 ## Como Executar
